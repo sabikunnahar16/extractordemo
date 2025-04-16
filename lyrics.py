@@ -1,4 +1,5 @@
 # Importing necessary libraries
+# Importing libraries for GUI, web requests, text processing, and speech synthesis
 from tkinter import *
 import tkinter.messagebox as mb
 from tkinter import simpledialog  # Import simpledialog for askstring
